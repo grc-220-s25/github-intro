@@ -1,3 +1,8 @@
+# This is a test
+123456789
+987654321
+random numbers^
+
 # github-intro
 Introduction to using git and GitHub. Will lead you through your first fork, clone, commit, and push. It is common to run into issues when going through this. Don't be shy in asking for help or coming to office hours!
 
